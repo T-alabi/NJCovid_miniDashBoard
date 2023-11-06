@@ -1,0 +1,23 @@
+Date,County,State,fips,caseNum,deathNum
+12/31/20,Atlantic,New Jersey,34001,12200,368
+12/31/20,Bergen,New Jersey,34003,47362,2318
+12/31/20,Burlington,New Jersey,34005,21221,624
+12/31/20,Camden,New Jersey,34007,28693,818
+12/31/20,Cape May,New Jersey,34009,2403,135
+12/31/20,Cumberland,New Jersey,34011,7853,225
+12/31/20,Essex,New Jersey,34013,47442,2391
+12/31/20,Gloucester,New Jersey,34015,14133,386
+12/31/20,Hudson,New Jersey,34017,44104,1699
+12/31/20,Hunterdon,New Jersey,34019,3800,139
+12/31/20,Mercer,New Jersey,34021,18790,720
+12/31/20,Middlesex,New Jersey,34023,45012,1677
+12/31/20,Monmouth,New Jersey,34025,31937,1040
+12/31/20,Morris,New Jersey,34027,20284,958
+12/31/20,Ocean,New Jersey,34029,32509,1356
+12/31/20,Passaic,New Jersey,34031,40033,1458
+12/31/20,Salem,New Jersey,34033,2764,112
+12/31/20,Somerset,New Jersey,34035,12688,664
+12/31/20,Sussex,New Jersey,34037,4478,215
+12/31/20,Union,New Jersey,34039,36683,1556
+12/31/20,Unknown,New Jersey,,1057,0
+12/31/20,Warren,New Jersey,34041,3935,183
